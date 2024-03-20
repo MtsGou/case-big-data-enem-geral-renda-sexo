@@ -98,7 +98,7 @@ Para a redação, foram consideradas apenas as redações dos alunos presentes o
 
 ### Aprovados em Medicina
 
-O curso de medicina é o mais concorrido e de difícil ingresso na maioria das universidades do Brasil. Em média, considerando o período de 2010 a 2021, **apenas 0.0879 % dos candidatos presentes obtêm média para passar em medicina.**
+O curso de medicina é o mais concorrido e de difícil ingresso na maioria das universidades do Brasil. Em média, considerando o período de 2010 a 2021, **apenas 0.0879 % dos candidatos presentes obtêm média para passar em medicina numa faculdade bem avaliada.**
 
 > **NOTA**: Foi levada em consideração a nota de corte da UFAM (Universidade Federal do Amazonas), que é uma universidade com pontuação mediana em medicina, comparada com outras universidades do país. A nota mínima para ingressar no curso de medicina na UFAM fica por volta dos 770-780 pontos na maioria dos anos segundo o SISU, que é uma nota de corte regular para medicina, nem tão baixa, nem tão alta. <br /> <br /> Sendo assim, foi obtido o **número de alunos daquele ano que teriam nota para serem aprovados em medicina em uma universidade regular** (para este estudo de caso, a UFAM) no ano em questão (considerando a nota de corte do mesmo ano), para ser levantada uma estimativa, em vez de ser dado um valor exato.
 
