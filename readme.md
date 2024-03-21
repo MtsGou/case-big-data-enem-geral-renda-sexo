@@ -1,11 +1,11 @@
 # ESTUDO COM DADOS DO ENEM DE 2010-2021. UMA VISÃO SOBRE PONTUAÇÃO, RENDA E SEXO
-\#\# BIG DATA ANALYTICS
+\# ANALYTICS
 
-**Repositório de ciência de dados e big data com arquivos e códigos utilizados para análise dos dados disponibilizados pelo governo brasileiro referentes ao ENEM, no período 2010-2021. Investigados os resultados quanto a pontuação, renda e sexo dos alunos.**
+**Repositório de ciência de dados com arquivos e códigos utilizados para análise dos dados disponibilizados pelo governo brasileiro referentes ao ENEM, no período 2010-2021. Investigados os resultados quanto a pontuação, renda e sexo dos alunos.**
 
 **Este estudo não pretende explicar ou atribuir causas específicas aos resultados, mas apenas mostrá-los.**
 
-_Data science and big data repository with files and codes used to analyze data available by the Brazil's government concerning ENEM ("Exame Nacional do Ensino Médio" - High School National Exam), in the 2010 - 2021 period. Investigate results for score, income and sex of students._
+_Data science repository with files and codes used to analyze data available by the Brazil's government concerning ENEM ("Exame Nacional do Ensino Médio" - High School National Exam), in the 2010 - 2021 period. Investigate results for score, income and sex of students._
 
 _This study doesn't intend to explain or attribute specific causes to the results, but only to show them._ 
 
