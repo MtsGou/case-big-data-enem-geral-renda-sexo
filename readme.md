@@ -14,7 +14,7 @@ _This study doesn't intend to explain or attribute specific causes to the result
 ## Sumário
 
 - [Contexto](#contexto)
-- [Métodos](#metodos)
+- [Métodos](#métodos)
 - [Análise Geral](#análise-geral)
   - [Nota Total (Média)](#nota-da-redação-média---geral)
   - [Nota da Redação (Média)](#nota-da-redação-média---geral)
@@ -25,7 +25,7 @@ _This study doesn't intend to explain or attribute specific causes to the result
   - [Por área](#por-área)
   - [Curva de distribuição das notas](#curva-de-distribuição-das-notas)
 - [Análise Renda](#análise-renda)
-  - [Nota Total (Média)](#nota-da-redação-média---por-renda)
+  - [Nota Total (Média)](#nota-total-média---por-renda)
   - [Nota da Redação (Média)](#nota-da-redação-média---por-renda)
   - [Domínio da norma culta](#domínio-da-norma-culta---por-renda)
   - [Aprovados em medicina de baixa renda](#aprovados-em-medicina-de-baixa-renda)
