@@ -30,7 +30,7 @@ _This study doesn't intend to explain or attribute specific causes to the result
   - [Domínio da norma culta](#domínio-da-norma-culta---por-renda)
   - [Aprovados em medicina de baixa renda](#aprovados-em-medicina-de-baixa-renda)
 - [Análise por Sexo](#análise-por-sexo)
-  - [Nota Total (Média)](#nota-da-redação-média---por-sexo)
+  - [Nota Total (Média)](#nota-total-média---por-sexo)
   - [Nota da Redação (Média)](#nota-da-redação-média---por-sexo)
   - [Já trabalharam?](#já-trabalharam)
   - [Resultado de estudantes de alta renda que nunca trabalharam](#resultado-de-estudantes-de-alta-renda-que-nunca-trabalharam)
